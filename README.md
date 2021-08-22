@@ -1,4 +1,4 @@
-# CSE110-Programming_Language-1-Lab [CSE,BRACU]
+# CSE110-Programming_Language-1 [CSE,BRACU]
 
 Semester: Summer-2021
 
